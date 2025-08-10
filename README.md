@@ -504,4 +504,3 @@ ORDER BY NO_OF_CUSTOMERS DESC;
 
 
 
-"# rfm-customer-segmentation-SQL" 
